@@ -1,10 +1,6 @@
-# Whaling Brand Book
+# BrandBook
 
 A clean, aquatic identity built around bright blues and soft gradients, inspired by the calm and power of the ocean.
-
-## Panorama
-
-![Brand Panorama](assets/panorama.png)
 
 ## Logos
 
